@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #ffffff;
+  color: #171717;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.32;
+}
+
+.card {
+  width: 596px;
+  min-height: 733px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 47px 18px 19px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
+}
+
+h1 {
+  margin: 0 0 13px;
+  text-align: center;
+  font-size: 28px;
+  line-height: 1.35;
+  font-weight: 800;
+  border-bottom: 1px solid #999;
+  padding: 1px 0 14px;
+}
+
+.section-title {
+  margin: 0 0 16px;
+  text-align: center;
+  font-size: 21px;
+  line-height: 1.25;
+  font-weight: 800;
+}
+
+.markup {
+  margin: 12px 0 14px;
+}
+
+p {
+  margin: 0 0 14px;
+  text-align: left;
+}
+
+a {
+  color: #171717;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #999;
+  margin: 12px 0 11px;
+}
+
+code {
+  font-family: "Courier New", monospace;
+  font-size: 13px;
+  background: #f4f4f4;
+  padding: 1px 2px;
+}
+
+p code {
+  color: #990000;
+}
+
+.code {
+  margin: 10px 0 0;
+  border: 1px solid #dfdfdf;
+  border-radius: 4px;
+  background: #fafafa;
+  color: #222;
+  font-family: "Courier New", monospace;
+  font-size: 12px;
+  line-height: 1.55;
+  padding: 10px 20px;
+  white-space: pre;
+}
+
+.code code {
+  background: none;
+  padding: 0;
+  font-size: inherit;
+}
+
+.red {
+  color: #990000;
+}
+
+.blue {
+  color: #1f66ad;
+}
+
+.code span span {
+  color: #111;
+}

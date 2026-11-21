@@ -1,0 +1,44 @@
+.title {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  color: #14104e;
+  text-decoration-line: underline;
+  text-decoration-color: rgba(138, 28, 28, 0.5);
+  font-size: 36px;
+  letter-spacing: 5px;
+  line-height: 1.5;
+  font-weight: 900;
+  letter-spacing: 5px;
+}
+.text1 {
+  color: #000000;
+  text-shadow: 2px 1px 5px green;
+  line-height: 1.5;
+}
+
+.text2 {
+  font-family: "Roboto", sans-serif;
+  color: #000000;
+  text-decoration-line: line-through;
+  line-height: 1.5;
+}
+
+.subtitle {
+  font-family: "Roboto", sans-serif;
+  color: #184912;
+  text-decoration: underline wavy;
+  font-size: 22px;
+  font-weight: 600;
+}
+.text3 {
+  font-family: "Roboto", sans-serif;
+  color: #000000;
+  text-decoration: underline dotted red;
+}
+.subtitle2 {
+  font-family: "Roboto", sans-serif;
+  color: #184912;
+  text-decoration: underline wavy;
+  font-size: 22px;
+  font-weight: 600;
+}
